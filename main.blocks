@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="%[Hi|VE$#f)oBY5vY^BW" x="-344" y="-1"><statement name="HANDLER"><block type="device_show_leds" id="#mGwAEX2n=yAR9rrM9##"><field name="LEDS">`
+        . # # # . 
+        . # # # . 
+        . # # # . 
+        . # # # . 
+        . # # # .
+        `</field><next><block type="device_print_message" id="aa)K4j;hcRkheE%C}YWp"><value name="text"><shadow type="text" id="Ck3`Q96xZ@$S0?]fj69,"><field name="TEXT">Potatoe :)</field></shadow></value></block></next></block></statement></block><block type="device_forever" id="qR|?v{yS?1@N%LH`FtFd" x="0" y="0"/><block type="device_button_event" id="3:VEpxdC9qaEeX,]4/{s" x="38" y="180"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_stop_animation" id="27-L7w938n]N9onCH@Hc"><next><block type="device_print_message" id="4@*sN8gxVyuJ!wm#jLmb"><value name="text"><shadow type="text" id="TeUfb:x*RzGnd1+:_aZZ"><field name="TEXT">No more potatoes :(</field></shadow></value></block></next></block></statement></block></xml>
